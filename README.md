@@ -8,9 +8,9 @@ This repository contains the search methodology and screening steps for a system
 
 ### Repository Structure
 ```
-├── scopus_query.ipynb   # Search steps and data visualization
+├── scopus_query.ipynb   # Search steps and data visualisation
 ├── requirements.txt     # Python dependencies
-└── outputs/             # Raw search exports (if applicable)
+└── outputs/             # Raw search exports
 ```
 
 ## How to reproduce the search
