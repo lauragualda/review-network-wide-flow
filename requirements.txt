@@ -1,0 +1,6 @@
+scopus-caller # scopus_caller by Mahajan, V. (2021) - https://github.com/vishalmhjn/scopus_caller
+pandas
+numpy
+seaborn
+matplotlib
+python-dotenv
